@@ -6,5 +6,7 @@ Esta es una plataforma de aprendizaje impulsada por inteligencia artificial que 
 ## Cómo Usar
 
 1.Descomprime el archivo AdaptLearn.zip
+
 2.Abre el archivo landing_page
+
 3 Disfruta la plataforma
