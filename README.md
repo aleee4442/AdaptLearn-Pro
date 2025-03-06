@@ -8,8 +8,11 @@ AdaptLearn is a learning platform powered by artificial intelligence that genera
 
 ## ✨ Key Features
 ✔️ Automatic generation of exercises in **mathematics, language, and science**.
+
 ✔️ **Adaptive difficulty levels** based on user performance.
+
 ✔️ **Intuitive interface** with subject selection and progress tracking.
+
 ✔️ **AI-driven suggestions and recommendations** to enhance learning.
 
 ## 🛠️ How to Use
