@@ -24,6 +24,7 @@ AdaptLearn is a learning platform powered by artificial intelligence that genera
 
 ## 📂 Project Structure
 📄 **landing_page.html** - Landing page where users accept terms and select their role.
+
 📄 **index_with_logout.html** - Main platform where exercises are generated and user progress is displayed.
 
 ## 👥 Hackathon Team
